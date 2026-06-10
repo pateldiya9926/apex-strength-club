@@ -25,4 +25,3 @@ A modern fitness website built with Next.js, TypeScript, and Tailwind CSS.
 ## Author
 Diya Patel 
 
-Diya Patel
